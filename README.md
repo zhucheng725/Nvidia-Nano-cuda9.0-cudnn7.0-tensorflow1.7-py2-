@@ -61,3 +61,8 @@ sudo apt-get install libblas-dev liblapack-dev libatlas-base-dev gfortran
 sudo apt-get install libhdf5-serial-dev
 sudo pip2 install keras
 ```
+<br>
+```
+pip2 install serial
+pip2 install pyserial
+```

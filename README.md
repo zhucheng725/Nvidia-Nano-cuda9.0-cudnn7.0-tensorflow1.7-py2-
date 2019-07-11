@@ -51,3 +51,14 @@ https://blog.csdn.net/m0_37718269/article/details/83901861<br>
 pip2 install xxx.whl
 ```
 ![image](https://github.com/zhucheng725/Nvidia-Nano-cuda9.0-cudnn7.0-tensorflow1.7-py2-/blob/master/Screenshot%20from%202019-07-01%2014-29-17.png)
+
+
+# STEP5<br>
+## Install keras :<br>
+
+```
+sudo apt-get install libblas-dev liblapack-dev
+sudo apt-get install gfortran
+sudo apt-get install libhdf5-serial-dev
+sudo pip2 install keras
+```

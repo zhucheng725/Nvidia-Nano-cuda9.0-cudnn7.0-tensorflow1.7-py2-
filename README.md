@@ -57,8 +57,7 @@ pip2 install xxx.whl
 ## Install keras :<br>
 
 ```
-sudo apt-get install libblas-dev liblapack-dev
-sudo apt-get install gfortran
+sudo apt-get install libblas-dev liblapack-dev libatlas-base-dev gfortran 
 sudo apt-get install libhdf5-serial-dev
 sudo pip2 install keras
 ```
